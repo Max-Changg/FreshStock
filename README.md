@@ -65,3 +65,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 - All inventory and usage data is stored client-side (localStorage + IndexedDB)
 - The "Items Almost Expired" card on the Insights page is a placeholder and not yet functional.
 - Receipt scanner sometimes includes junk data points, and is limited by the information on the receipt.
+
+
+check out DESIGN.md for tech stack and design details. 
