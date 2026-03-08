@@ -10,7 +10,7 @@ dist/
 .env.*.local
 
 # Database
-data/
+/data/
 
 # Editor
 .vscode/
