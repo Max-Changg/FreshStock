@@ -4,6 +4,7 @@
 **Scenario Chosen:** Green-Tech Inventory Assistant
 **Estimated Time Spent:** 5.5 hours
 
+Video: https://www.youtube.com/watch?v=yAx17GXbwFY
 ---
 
 ## Quick Start
